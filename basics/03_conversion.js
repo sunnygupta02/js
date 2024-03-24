@@ -19,3 +19,7 @@ console.log(strtonumb);
 let emptystring="sunny";
 let strtoBoolean=Boolean(emptystring);
 console.log(strtoBoolean);
+
+//operations//
+
+

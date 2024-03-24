@@ -9,6 +9,7 @@ console.log(typeof login);
 console.log(typeof null); //-> object interview question
 console.log(typeof state);
 
+
 /*
 datatype:
 primitive:
